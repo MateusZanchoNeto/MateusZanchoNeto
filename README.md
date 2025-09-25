@@ -8,7 +8,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-zancho-neto-fullstack-react/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-zancho-neto-full-stack-react/)
 
 ### 💻 Tech Stack:
 
