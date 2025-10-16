@@ -13,6 +13,7 @@
 ### 💻 Tech Stack:
 
 <p float="left">
+<img src="https://assets.exercism.org/tracks/cpp.svg" width="50" height="50">
 <img src="https://assets.exercism.org/tracks/rust.svg" width="50" height="50">
 <img src="https://assets.exercism.org/tracks/typescript.svg" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" width="50" height="50">
