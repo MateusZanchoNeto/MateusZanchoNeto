@@ -7,15 +7,13 @@
 <h1 align="center">Mateus Zancho Neto</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-zancho-neto-full-stack-react/)
-
 ### 💻 Tech Stack:
 
 <p float="left">
 <img src="https://assets.exercism.org/tracks/cpp.svg" width="50" height="50">
 <img src="https://assets.exercism.org/tracks/rust.svg" width="50" height="50">
 <img src="https://assets.exercism.org/tracks/typescript.svg" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/6c9ccb29-a348-45d6-ad5b-d1f4dadcdebd" width="50" height="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" width="50" height="50">
 <img src="https://assets.exercism.org/tracks/java.svg" width="50" height="50">
 <img src="https://assets.exercism.org/tracks/javascript.svg" width="50" height="50">
